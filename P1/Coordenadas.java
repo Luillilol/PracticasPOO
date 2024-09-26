@@ -1,12 +1,20 @@
 package mx.unam.fi.poo.g1.p1;
 
 import java.lang.Math;
+
+/**
+ * Clase Coordenadas
+ * @author González Falcón Luis Adrián
+ * @version Septiembre-2024
+ */
 public class Coordenadas {
     private final double radio = 6371.01;
-
     private double x1, y1, x2, y2;
+
+    
     /**
      * Método constructor
+     * Para construir objetos Coordenadas
      */
     public Coordenadas(){}
 
