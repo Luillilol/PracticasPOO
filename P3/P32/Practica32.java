@@ -40,6 +40,6 @@ public class Practica32 {
         System.out.println("Elementos sustituidos: ");
         contenedor.mostrarContenedor();
 
- 
+        es.close();
     }
 }

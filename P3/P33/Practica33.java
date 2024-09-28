@@ -38,6 +38,8 @@ public class Practica33 {
 
         System.out.println("El perrito es: "+contenedorMap.obtenerElemento(key));
 
+        es.close();
+
     }
     
 }
