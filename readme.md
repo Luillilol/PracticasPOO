@@ -1,1 +1,1 @@
-Práctica 5 y 6 👊
+Prácticas 5 y 6 👊
